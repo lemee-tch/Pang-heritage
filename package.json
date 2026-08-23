@@ -1,0 +1,24 @@
+{
+  "name": "pangasinan-heritage-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pangasinan Heritage Digital Showcase — a mobile-first JAMstack tourism site for the Provincial Tourism Office, built with Next.js 14 (App Router) using Brad Frost's Atomic Design methodology.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.13",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.15"
+  }
+}
